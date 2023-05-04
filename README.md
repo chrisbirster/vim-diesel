@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/chrisbirster/vim-diesel/main/vim-diesel.png" alt="Vim Diesel" width="100px" />
+  <img src="https://raw.githubusercontent.com/chrisbirster/vim-diesel/main/vim-diesel.png" alt="Vim Diesel" width="300px" />
 </div>
 
 # Vim Diesel
